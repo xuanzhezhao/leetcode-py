@@ -1,4 +1,5 @@
 from typing import List
+"""Leetcode Question 704:https://leetcode-cn.com/problems/binary-search/"""
 
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
