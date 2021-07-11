@@ -20,5 +20,5 @@ class Solution:
 
 if __name__ == '__main__':
     solution = Solution()
-    #assert solution.search([2, 7, 11, 15], 15) == 3
+    #A simple test
     print(solution.sortedSquares([-7, -2, 1,7,11, 15]))
